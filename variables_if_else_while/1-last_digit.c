@@ -12,18 +12,22 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
+	
 	/*Calculate the last digit*/
+	
 	last_digit = n % 10;
+	
 	/*Print the last digit and its description*/
-	printf("Last digit of %d is %d", n, last_digit);
+	
+	printf("Last digit of %d is %d ", n, last_digit);
 
 	if (last_digit > 5)
 	{
-		printf("and greater than 5\n");
+		printf("and is greater than 5\n");
 	}
 	else if (last_digit == 0)
 	{
-		printf("and is )\n");
+		printf("and is 0\n");
 	}
 	else
 	{
