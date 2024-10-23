@@ -11,9 +11,12 @@ int main(void)
 {
 
 	/*Print all single numbers of base ten starting from zero*/
-	for (int i = 0; i < 10; i++)
+	int i = '0';
+
+	while (i <= '9')
 	{
-		putchar(i + '0');
+		putchar(i);
+		i++;
 	}
 
 	putchar('\n');
