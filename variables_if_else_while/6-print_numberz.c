@@ -14,10 +14,10 @@ int main(void)
 	{
 		putchar(i + '0');
 
-		putchar('\n');
-
 		i++;
 	}
+
+	putchar('\n');
 
 	return (0);
 }
