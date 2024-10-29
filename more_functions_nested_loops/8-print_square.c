@@ -2,7 +2,7 @@
 
 /**
  * print_square - Print a square of size "size" using # char
- * @ size: the size of the square to be printed
+ * @size: the size of the square to be printed
  * Return: Square figure
  */
 
