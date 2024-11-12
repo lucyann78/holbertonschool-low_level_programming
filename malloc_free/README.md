@@ -1,0 +1,1 @@
+C malloc - memory allocation method in C is used to dynamically allocate a single large block of memory with the specified size. It returns a pointer of type void which can be cast into a pointer of any form. Free - free function deallocates the block of memory pointed at by ptr.
