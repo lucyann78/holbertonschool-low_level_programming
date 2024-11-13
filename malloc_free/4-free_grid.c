@@ -4,7 +4,6 @@
 /**
  * free_grid - prints a grid of integers
  * @grid: the adress of the two dimensional grid
- * @width: width of the grid
  * @height: height of the grid
  * Return: nothing
  */
