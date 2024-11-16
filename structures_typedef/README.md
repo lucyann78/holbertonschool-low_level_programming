@@ -1,0 +1,1 @@
+Structures and typedef are used to define custom data types. Structures is a user define data type that allows you to group different types of variable together under a single name. The typedef keyword is used to create an alias for existing data types, including structures.
