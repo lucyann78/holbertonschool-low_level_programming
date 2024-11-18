@@ -1,0 +1,1 @@
+C - Function Pointers are pointers that point to the address of a function.  Function pointers allow to store the address of a function in a variable, enable dynamic function calls and facilitating various programming techniques.
